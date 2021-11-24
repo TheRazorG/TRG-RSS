@@ -1,0 +1,8 @@
+El ejercicio funcioa correctamente, para revisarlo puedes acceder al link
+
+Link RSS --> https://lgm4.therazorg.com/principal.xml
+Link Web --> https://lgm4.therazorg.com/
+
+Copias el link y lo llevas al FeedDemon, es capaz de reconocer la feed RSS
+
+Un Saludo

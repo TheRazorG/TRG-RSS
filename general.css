@@ -1,0 +1,27 @@
+* {
+  background-color: #e7afb6;
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+a {
+  margin-right: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+
+p {
+  font-weight: bold;
+}
+.main {
+  width: 630px;
+  height: auto;
+  margin-top: 30px;
+}

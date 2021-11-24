@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+
+    <title>Agustin Ezequiel Sulca News</title>
+    <link>https://lgm4.therazorg.com/</link>
+    <description>Here you'll find some news aboyt Agustin</description>
+
+    <item>
+      <title>Who I Am?</title>
+      <link>https://lgm4.therazorg.com/news1</link>
+      <guid>https://lgm4.therazorg.com/news1</guid>
+      <description>My name is Agustin Ezequiel Sulca, I'm 21 years old and I'm from Spain</description>
+    </item>
+
+    <item>
+      <title>Whats my favorite food?</title>
+      <link>https://lgm4.therazorg.com/news2</link>
+      <guid>https://lgm4.therazorg.com/news2</guid>
+      <description>One of my favorite food is Pizza, but I only eat the pizza that my father made</description>
+    </item>
+
+</channel>
+</rss>
